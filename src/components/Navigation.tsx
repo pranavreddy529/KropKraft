@@ -249,7 +249,7 @@ export function Navigation({ isDarkMode, toggleTheme }: NavigationProps) {
                       className="absolute right-0 mt-2 w-56 rounded-xl bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 shadow-lg z-50 overflow-hidden"
                     >
                       <a
-                        href="/brochures/kropkraft-brochure-en.pdf"
+                        href="/brochures/kropkraft-brochure-en.pdf.pdf"
                         download
                         onClick={() => setBrochureOpen(false)}
                         className="block px-4 py-3 text-sm text-gray-700 dark:text-gray-300 hover:bg-green-50 dark:hover:bg-green-900/20 transition-colors"
@@ -257,7 +257,7 @@ export function Navigation({ isDarkMode, toggleTheme }: NavigationProps) {
                         English Brochure (PDF)
                       </a>
                       <a
-                        href="/brochures/kropkraft-brochure-hi.pdf"
+                        href="/brochures/kropkraft-brochure-hi.pdf.pdf"
                         download
                         onClick={() => setBrochureOpen(false)}
                         className="block px-4 py-3 text-sm text-gray-700 dark:text-gray-300 hover:bg-green-50 dark:hover:bg-green-900/20 transition-colors"
