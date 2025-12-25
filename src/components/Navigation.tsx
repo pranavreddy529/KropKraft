@@ -369,7 +369,7 @@ export function Navigation({ isDarkMode, toggleTheme }: NavigationProps) {
                         className="mt-2 rounded-xl bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 shadow-lg overflow-hidden"
                       >
                         <a
-                          href="/brochures/kropkraft-brochure-en.pdf"
+                          href="/brochures/kropkraft-brochure-en.pdf.pdf"
                           download
                           onClick={() => {
                             setBrochureOpen(false);
@@ -380,7 +380,7 @@ export function Navigation({ isDarkMode, toggleTheme }: NavigationProps) {
                           English Brochure (PDF)
                         </a>
                         <a
-                          href="/brochures/kropkraft-brochure-hi.pdf"
+                          href="/brochures/kropkraft-brochure-hi.pdf.pdf"
                           download
                           onClick={() => {
                             setBrochureOpen(false);
