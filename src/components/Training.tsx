@@ -144,7 +144,7 @@ export function Training({ isDarkMode }: TrainingProps) {
         <div className="mt-16 grid lg:grid-cols-2 gap-8 items-center">
           <div className="rounded-2xl overflow-hidden shadow-xl">
             <img 
-              src="https://images.unsplash.com/photo-1575686467550-7d2a658eb1cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkcm9uZSUyMHBpbG90JTIwdHJhaW5pbmd8ZW58MXx8fHwxNzY1MzYwOTc5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+              src="/drone training.jpeg"
               alt="Drone Training Session"
               className="w-full h-80 object-cover"
             />

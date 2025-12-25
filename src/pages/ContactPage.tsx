@@ -12,7 +12,7 @@ const contactDetails = [
   },
   {
     title: 'Email Address',
-    lines: ['info@kropkraft.com', 'contact@kropkraft.com']
+    lines: ['info@kropkraft.com']
   },
   {
     title: 'Phone Number',

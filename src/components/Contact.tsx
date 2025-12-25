@@ -89,8 +89,8 @@ export function Contact({ isDarkMode }: ContactProps) {
     {
       icon: Mail,
       label: 'Email',
-      value: 'mahesh@kropkraft.com',
-      link: 'mailto:mahesh@kropkraft.com'
+      value: 'info@kropkraft.com',
+      link: 'mailto:info@kropkraft.com'
     },
     {
       icon: Phone,
